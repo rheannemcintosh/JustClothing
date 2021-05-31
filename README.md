@@ -1,13 +1,15 @@
-# JustClothing :tshirt:
+# JustClothing :dress:
 
 ## Project Overview
-The JustClothing application is a React JS application which covers everything needed to make a real clothing website! The application is based off of a Udemy Tutorial which can be accessed [here](https://www.udemy.com/course/complete-react-developer-zero-to-mastery/). This is also a part of my 2<sup>nd</sup> round of the **100 Days of Code Challenge**.
+JustClothing is a prototype for an eCommerce clothing application, built using React JS. The application is based off of a Udemy tutorial by the Zero to Mastery Academy which can be accessed [here](https://www.udemy.com/course/complete-react-developer-zero-to-mastery/). This was developed as part of my **365 Days of Code Challenge**.
 
-## Inital Work
-This project is ongoing and is currently being implemented along with the Udemy tutorial, with some small edits along the way.
+## Initial Work
+The initial work is still underway, but currently the application uses React, Redux, Firebase and the Stripe API.
 
-## Next Steps
-:black_square_button: Upload Code
+<!-- :black_square_button: for not complete -->
+<!-- :white_check_mark: for complete -->
+## Completion Checklist
+:white_check_mark: Upload Code
 
 :black_square_button: Format Code
 
@@ -19,11 +21,23 @@ This project is ongoing and is currently being implemented along with the Udemy 
 
 :black_square_button: Update Wiki
 
+:black_square_button: Create Next Steps
+ 
+:black_square_button: Archive Repository
+
+<!-- Repository Next Steps -->
+<!-- 
+## Next Steps
+- Example Issue Name [(Issue #1)]()
+- Host site if possible
+-->
+
+<!-- Repository Notes -->
 ## Notes
 - **Language:** React JS
 - **Author:** Rheanne McIntosh
-- **100 Days of Code:** Day ??? / 100
-- **Udemy Tutorial:** [Complete React Developer - Zero to Mastery](https://www.udemy.com/course/complete-react-developer-zero-to-mastery/)
-- **Udemy Instructors:** Andrei Neagoie / Yihua Zhang
+- **365 Days of Code:** Day 165 - Ongoing / 365
+- **Udemy Tutorial:** [Complete React Developer 2021 (Redux, Hooks, GraphQL](https://www.udemy.com/course/complete-react-developer-zero-to-mastery/)
+- **Instructors:** Zero to Mastery Academy - Andrei Neagoie / Yihua Zhang 
 
 If you have any questions or can suggest any improvements, please let me know!
