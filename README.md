@@ -21,6 +21,8 @@ The initial work is still underway, but currently the application uses React, Re
 
 :black_square_button: Update Wiki
 
+:black_square_button: Write Application Setup / Commands
+
 :black_square_button: Create Next Steps
  
 :black_square_button: Archive Repository
@@ -41,3 +43,8 @@ The initial work is still underway, but currently the application uses React, Re
 - **Instructors:** Zero to Mastery Academy - Andrei Neagoie / Yihua Zhang 
 
 If you have any questions or can suggest any improvements, please let me know!
+
+<!-- Application Setup / Commands -->
+<!--
+## Application Setup / Commands
+-->
