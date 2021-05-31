@@ -9,13 +9,13 @@ The initial work is still underway, but currently the application uses React, Re
 <!-- :black_square_button: for not complete -->
 <!-- :white_check_mark: for complete -->
 ## Completion Checklist
-:white_check_mark: Upload Code
+:black_square_button: Upload Code _(In Progress)_
 
 :black_square_button: Format Code
 
-:black_square_button: Update README
+:black_square_button: Update README _(In Progress)_
 
-:black_square_button: Update Repository
+:black_square_button: Update Repository _(In Progress)_
 
 :black_square_button: Post on Instagram
 
