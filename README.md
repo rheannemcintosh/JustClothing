@@ -40,7 +40,7 @@ The initial work is still underway, but currently the application uses React, Re
 - **Author:** Rheanne McIntosh
 - **365 Days of Code:** Day 165 - Ongoing / 365
 - **Udemy Tutorial:** [Complete React Developer 2021 (Redux, Hooks, GraphQL)](https://www.udemy.com/course/complete-react-developer-zero-to-mastery/)
-- **Instructors:** Zero to Mastery Academy - Andrei Neagoie / Yihua Zhang 
+- **Instructors:** Andrei Neagoie / Yihua Zhang 
 
 If you have any questions or can suggest any improvements, please let me know!
 
